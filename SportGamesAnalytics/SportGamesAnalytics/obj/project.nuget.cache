@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qt90bC4s7AR1TMJvB6BpxcsIE1PhT89UAw6QCy5EUKVio2nWRiA5czMYQca9r57972fDNOlE/MEH0VoFsfunRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\misha\\source\\repos\\SportGamesAnalytics\\SportGamesAnalytics\\SportGamesAnalytics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\misha\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.0\\microsoft.extensions.configuration.9.0.0.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\9.0.0\\microsoft.extensions.configuration.fileextensions.9.0.0.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\microsoft.extensions.configuration.json\\9.0.0\\microsoft.extensions.configuration.json.9.0.0.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\9.0.0\\microsoft.extensions.fileproviders.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\9.0.0\\microsoft.extensions.fileproviders.physical.9.0.0.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\9.0.0\\microsoft.extensions.filesystemglobbing.9.0.0.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\npgsql\\9.0.1\\npgsql.9.0.1.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\misha\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
